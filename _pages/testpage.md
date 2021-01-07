@@ -1,7 +1,7 @@
 ---
 layout: page
 title: test Page
-image: iu-01.png
+image: iu-01.jpg
 permalink: /about/
 ---
 

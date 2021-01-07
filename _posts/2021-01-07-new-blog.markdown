@@ -2,7 +2,7 @@
 layout: post
 title:  New blog, 새로운 블로그를 생성하다.
 date:   2021-01-07 18:21:30 +0300
-image:  IU-06.jpg
+image:  rose_01.jpg
 tags:   [Life, daily]
 ---
 길었던 겨우내 줄곧 품이 좀 남는 밤색 코트
@@ -30,7 +30,7 @@ tags:   [Life, daily]
 오 사랑노래들이 너무해
 
 
-![]({{site.baseurl}}/img/IU-07.jpg)
+![]({{site.baseurl}}/img/rose_02.jpg)
 
 나만 빼고 다 사랑에 빠져 봄노래를 부르고
 꽃잎이 피어나 눈 앞에 살랑거려도
@@ -70,4 +70,4 @@ Letterpress next level master cleanse mlkshk echo park celiac chillwave cray 90'
 Man braid sustainable affogato pinterest leggings. Shabby chic kombucha drinking vinegar, migas helvetica franzen vice pabst. Fashion axe YOLO hexagon ramps. Keffiyeh gluten-free williamsburg kombucha. Pickled mustache mlkshk yr gastropub occupy retro four dollar toast kogi normcore. Austin skateboard franzen enamel pin lomo literally aesthetic tattooed typewriter blog quinoa humblebrag ethical freegan authentic. Vaporware crucifix 90's, venmo adaptogen bitters migas.
 
 
-![]({{site.baseurl}}/img/rose_01.jpg)
+![]({{site.baseurl}}/img/rose_03.jpg)
