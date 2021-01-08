@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PlayList
-image: /img/IU-01.jpg
+image: IU-01.jpg
 permalink: /PlayList/
 ---
 

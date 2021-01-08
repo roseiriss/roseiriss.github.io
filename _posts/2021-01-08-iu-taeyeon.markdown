@@ -10,5 +10,5 @@ tags:   [playlist, youtube, music, 팝송, iu, 아이유, 태연, 국내음악]
 ***
 ### 태연 X 아이유 PLAYLIST TAEYEON & IU Collaboration PLAYLIST
 
-<iframe src="https://youtu.be/embed/zmYWosV6NYo?list=PLWaJvFZPXTCFOXPyQiMuobvqZ4PBHCnXN" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/zmYWosV6NYo?list=PLWaJvFZPXTCFOXPyQiMuobvqZ4PBHCnXN" frameborder="0" allowfullscreen></iframe>
 

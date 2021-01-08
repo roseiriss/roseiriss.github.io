@@ -10,5 +10,5 @@ tags:   [playlist, youtube, music, 팝송]
 ***
 ### 2020년 한 해 동안 많은 사랑을 받았던 팝송들 | PLAYLIST
 
-<iframe src="https://youtu.be/embed/zkEnqWFihJE" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/zkEnqWFihJE" frameborder="0" allowfullscreen></iframe>
 
