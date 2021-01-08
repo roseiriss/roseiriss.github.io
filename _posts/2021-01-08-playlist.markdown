@@ -10,5 +10,31 @@ tags:   [playlist, youtube, music, 팝송]
 ***
 ### 2020년 한 해 동안 많은 사랑을 받았던 팝송들 | PLAYLIST
 
-<iframe src="https://www.youtube.com/embed/zkEnqWFihJE" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/zkEnqWFihJE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+### 이미지 테스트
+![]({{site.baseurl}}/img/iu.jpg)
+![]({{site.baseurl}}/img/IU-01.jpg)
+![]({{site.baseurl}}/img/iu-02.jpg)
+![]({{site.baseurl}}/img/IU-03.jpg)
+![]({{site.baseurl}}/img/iu-04.jpg)
+![]({{site.baseurl}}/img/IU-05.jpg)
+![]({{site.baseurl}}/img/iu-06.jpg)
+![]({{site.baseurl}}/img/IU-07.jpg)
+![]({{site.baseurl}}/img/iu-08.jpg)
+![]({{site.baseurl}}/img/IU-09.jpg)
+![]({{site.baseurl}}/img/iu-10.jpg)
+![]({{site.baseurl}}/img/IU-gif01.gif)
+![]({{site.baseurl}}/img/IU-thumbnail.jpg)
+![]({{site.baseurl}}/img/profile.jpg)
+![]({{site.baseurl}}/img/rose_01.jpg)
+![]({{site.baseurl}}/img/rose_02.jpg)
+![]({{site.baseurl}}/img/rose_03.jpg)
+![]({{site.baseurl}}/img/2021_01_08_01.jpg)
+![]({{site.baseurl}}/img/2021_01_08_02.jpg)
+![]({{site.baseurl}}/img/2021_01_08_03.jpg)
+![]({{site.baseurl}}/img/2021_01_08_04.jpg)
+
+
 

@@ -32,15 +32,9 @@
       </li>
       {% else %} {% endif %}
 
-      {% if site.kakao %}
+       {% if site.twitter %}
       <li class="social-profiles-item">
-        <a href="{{ site.kakao }}" class="social-profiles-link"><i class="ion ion-logo-kakao"></i></a>
-      </li>
-      {% else %} {% endif %}
-
-       {% if site.velog %}
-      <li class="social-profiles-item">
-        <a href="{{ site.velog }}" class="social-profiles-link"><i class="ion ion-logo-velog"></i></a>
+        <a href="{{ site.twitter }}" class="social-profiles-link"><i class="ion ion-logo-twitter"></i></a>
       </li>
       {% else %} {% endif %}
 
@@ -59,23 +53,32 @@
   </div>
 
   <div class="widget widget-newsletter">
-    <h3 class="widget-title">Kakao talk</h3>
-    <div class="newsletter-subtitle">언제든 톡 주세요 :) </div>
-    <div class="newsletter-text">최대한 빠른 답변 드릴게요.</div>
-    <div class="newsletter-text"><a href="https://open.kakao.com/me/roseiris" class="tag">카카오톡 1:1</a></div>
+    <h3 class="widget-title">카카오톡 1:1</h3>
+    <div class="newsletter-subtitle">카카오톡! </div>
+    <div class="newsletter-text">오픈채팅방 참여가 가능해요.</div>
+    <form class="c-newsletter-form validate" action="{% if site.mailchimp %}//{{site.mailchimp}}{% else %}#{% endif %}" method="POST"
+      id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+      <div class="newsletter-group">
+        <div class="newsletter-group-top">
+          <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
+          <i class="email-icon ion ion-ios-mail"></i>
+          <input class="newsletter-email required email" id="mce-EMAIL" type="text" name="EMAIL" placeholder="E-mail">
+        </div>
+        <a href="https://open.kakao.com/me/roseiris" class="tag">카카오톡 1:1</a>
+      </div>
+    </form>
   </div>
 
   {% if site.instafeed == true %}
   <div class="widget widget-instagram">
     <h3 class="widget-title">Instagram</h3>
-    <div class="">준비중이에요 :) </div>
     <div class="instagram-box">
       <ul id="instafeed" class="instagram-grid list-reset clearfix"></ul>
       <a class="instagram-prof" href="#">&#64;UserName</a>
     </div>
   </div>
   {% endif %}
-<!--
+
   <div class="widget widget-tags">
     <h3 class="widget-title">Tag Cloud</h3>
     {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{%
@@ -88,5 +91,4 @@
     {% endfor %}
     </ul>
   </div>
-  -->
-</aside> <!-- /.sidebar -->
+  </aside>
