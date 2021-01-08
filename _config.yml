@@ -9,17 +9,17 @@ url: "https://roseiriss.github.io/" # the base hostname & protocol for your site
 
 #-------------------------------
 # About Section
-author-name:   Natali Anderson
-author-avatar: 09.jpg
+author-name:   Rose
+author-avatar: iu.jpg
 
 
 #-------------------------------
 # Contact links
 facebook:  https://facebook.com/ # Add your Facebook handle
-twitter:   https://twitter.com/ # Add your Facebook handle
-instagram: https://www.instagram.com/roseiriss # Add your Facebook handle
-pinterest: https://www.pinterest.com/ # Add your Facebook handle
-
+velog:   https://velog.io/@rose/ # Add your velog handle
+instagram: https://www.instagram.com/ # Add your instagram handle
+pinterest: https://www.pinterest.com/ # Add your pinterest handle
+kakako:  https://open.kakao.com/me/roseiris # Add your kakako handle
 
 #-------------------------------
 # Comment Section (Disqus)
