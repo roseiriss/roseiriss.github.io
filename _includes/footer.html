@@ -4,7 +4,7 @@
       <div class="col col-12">
         <div class="footer-top">
           <h2 class="logo-title">
-            <a href="{{site.baseurl}}/" class="logo-text">Galada</a>
+            <a href="{{site.baseurl}}/" class="logo-text">Rose</a>
           </h2>
           <div class="top"><i class="ion ion-ios-arrow-up"></i></div>
         </div>
@@ -18,8 +18,12 @@
               <li><a href="{{ site.facebook }}">Facebook</a></li>
               {% else %} {% endif %}
 
-              {% if site.twitter %}
-              <li><a href="{{ site.twitter }}">Twitter</a></li>
+              {% if site.kakao %}
+              <li><a href="{{ site.kakao }}">kakaoTalk</a></li>
+              {% else %} {% endif %}
+
+              {% if site.velog %}
+              <li><a href="{{ site.velog }}">velog</a></li>
               {% else %} {% endif %}
 
               {% if site.instagram %}
