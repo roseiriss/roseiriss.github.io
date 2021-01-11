@@ -2,7 +2,7 @@
 layout: post
 title:  2020년 한 해 동안 많은 사랑을 받았던 팝송들
 date:   2021-01-08 15:30:30 +0300
-image:  2021-01-08-01.jpg
+image:  111.jpg
 tags:   [playlist, youtube, music, 팝송]
 
 ---
@@ -31,7 +31,7 @@ tags:   [playlist, youtube, music, 팝송]
 ![]({{site.baseurl}}/img/rose_01.jpg)
 ![]({{site.baseurl}}/img/rose_02.jpg)
 ![]({{site.baseurl}}/img/rose_03.jpg)
-![]({{site.baseurl}}/img/2021_01_08_01.jpg)
+![]({{site.baseurl}}/img/111.jpg)
 ![]({{site.baseurl}}/img/2021_01_08_02.jpg)
 ![]({{site.baseurl}}/img/2021_01_08_03.jpg)
 ![]({{site.baseurl}}/img/2021_01_08_04.jpg)
