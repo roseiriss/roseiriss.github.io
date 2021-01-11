@@ -2,7 +2,7 @@
 layout: post
 title:  태연 X 아이유 PLAYLIST TAEYEON & IU Collaboration PLAYLIST | PLAYLIST
 date:   2021-01-08 15:31:30 +0300
-image:  2021-01-08-02.jpg
+image:  2021_01_08_02.jpg
 tags:   [playlist, youtube, music, 팝송, iu, 아이유, 태연, 국내음악]
 
 ---

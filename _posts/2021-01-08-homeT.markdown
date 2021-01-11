@@ -2,7 +2,7 @@
 layout: post
 title:  힙으뜸, 15분 내 운동 모음
 date:   2021-01-08 15:40:30 +0300
-image:  2021-01-08-03.jpg
+image:  2021_01_08_03.jpg
 tags:   [playlist, youtube, 힙으뜸, 홈트, 운동]
 
 ---
